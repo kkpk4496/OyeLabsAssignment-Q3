@@ -5,3 +5,5 @@ person.gender = "male";
 const student = new Object();
 student.name = "ravi";
 student.email = "ravi11@yopmail.com";
+
+export app.js
